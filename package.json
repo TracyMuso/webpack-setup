@@ -1,0 +1,20 @@
+{
+  "name": "webpack-setup",
+  "version": "1.0.0",
+  "description": "This is practice on how to properly set up webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elfin-git/webpack-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elfin-git/webpack-setup/issues"
+  },
+  "homepage": "https://github.com/elfin-git/webpack-setup#readme"
+}

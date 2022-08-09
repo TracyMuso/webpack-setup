@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/elfin-git/webpack-setup/issues"
   },
-  "homepage": "https://github.com/elfin-git/webpack-setup#readme"
+  "homepage": "https://github.com/elfin-git/webpack-setup#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
 }
